@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4CAF50"/>
+      <stop offset="100%" stop-color="#2E7D32"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="12" stdDeviation="16" flood-color="#1B5E20" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <!-- Background Rounded Rect -->
+  <rect width="512" height="512" rx="128" fill="url(#grad)"/>
+  
+  <!-- Outer Plate Rim -->
+  <circle cx="256" cy="268" r="150" fill="#FFFFFF" opacity="0.95" filter="url(#shadow)"/>
+  <!-- Inner Plate Recess -->
+  <circle cx="256" cy="268" r="115" fill="#FFFDF9" stroke="#E0E0E0" stroke-width="4"/>
+  
+  <!-- Fresh Leaf Motif -->
+  <path d="M 256 160 C 290 190, 310 240, 290 280 C 270 320, 220 310, 200 270 C 180 230, 220 180, 256 160 Z" fill="#4CAF50"/>
+  <path d="M 230 280 Q 256 240 275 200" stroke="#A8E6CF" stroke-width="6" stroke-linecap="round" fill="none"/>
+  
+  <!-- Small fork and knife subtle kitchen badge -->
+  <circle cx="340" cy="180" r="32" fill="#FFB74D"/>
+  <text x="340" y="192" font-size="26" text-anchor="middle" fill="#FFFFFF">✨</text>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "FreshPlate - Smart Waste-Free Kitchen Assistant",
+  "description": "Cook smart and waste less with FreshPlate: fridge inventory tracking, expiry alerts, and smart recipe suggestions from ingredients on hand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
