@@ -222,9 +222,6 @@ Refresh the page → All data persists ✅
 Anees Kumar Ghosh
 UI/UX Designer
 
-https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white
-
 Designed and developed FreshPlate end-to-end — from UX research and wireframes to a fully functional React application.
 
 💬 "Design isn't just about making things beautiful — it's about making things useful."
